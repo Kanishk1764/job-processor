@@ -1,0 +1,21 @@
+{
+  "name": "job-processor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanishk1764/job-processor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kanishk1764/job-processor/issues"
+  },
+  "homepage": "https://github.com/Kanishk1764/job-processor#readme",
+  "description": ""
+}
